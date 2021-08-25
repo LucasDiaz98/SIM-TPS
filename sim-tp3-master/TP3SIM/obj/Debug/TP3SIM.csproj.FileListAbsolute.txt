@@ -1,0 +1,93 @@
+C:\Users\garba\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\TP3SIM.csprojResolveAssemblyReference.cache
+C:\Users\garba\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TP3.resources
+C:\Users\garba\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\garba\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\TP3SIM.csproj.GenerateResource.Cache
+C:\Users\garba\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\garba\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\garba\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\garba\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\garba\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\garba\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Exponencial.resources
+C:\Users\garba\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Normal.resources
+C:\Users\garba\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Poisson.resources
+C:\Users\garba\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Uniforme.resources
+F:\FACULTAD\Facultad 2017\SIM\TP3-SIM\TP3SIM\TP3SIM\bin\Debug\TP3SIM.exe.config
+F:\FACULTAD\Facultad 2017\SIM\TP3-SIM\TP3SIM\TP3SIM\bin\Debug\TP3SIM.exe
+F:\FACULTAD\Facultad 2017\SIM\TP3-SIM\TP3SIM\TP3SIM\bin\Debug\TP3SIM.pdb
+F:\FACULTAD\Facultad 2017\SIM\TP3-SIM\TP3SIM\TP3SIM\obj\Debug\TP3SIM.csprojResolveAssemblyReference.cache
+F:\FACULTAD\Facultad 2017\SIM\TP3-SIM\TP3SIM\TP3SIM\obj\Debug\WindowsFormsApplication1.Exponencial.resources
+F:\FACULTAD\Facultad 2017\SIM\TP3-SIM\TP3SIM\TP3SIM\obj\Debug\WindowsFormsApplication1.Normal.resources
+F:\FACULTAD\Facultad 2017\SIM\TP3-SIM\TP3SIM\TP3SIM\obj\Debug\WindowsFormsApplication1.Poisson.resources
+F:\FACULTAD\Facultad 2017\SIM\TP3-SIM\TP3SIM\TP3SIM\obj\Debug\WindowsFormsApplication1.TP3.resources
+F:\FACULTAD\Facultad 2017\SIM\TP3-SIM\TP3SIM\TP3SIM\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\FACULTAD\Facultad 2017\SIM\TP3-SIM\TP3SIM\TP3SIM\obj\Debug\WindowsFormsApplication1.Uniforme.resources
+F:\FACULTAD\Facultad 2017\SIM\TP3-SIM\TP3SIM\TP3SIM\obj\Debug\TP3SIM.csproj.GenerateResource.Cache
+F:\FACULTAD\Facultad 2017\SIM\TP3-SIM\TP3SIM\TP3SIM\obj\Debug\TP3SIM.exe
+F:\FACULTAD\Facultad 2017\SIM\TP3-SIM\TP3SIM\TP3SIM\obj\Debug\TP3SIM.pdb
+D:\Agus\Agus Drive\Académico\4° AÑO\SIM\SIM_TP3\SIM_TP3\TP3SIM\bin\Debug\TP3SIM.exe.config
+D:\Agus\Agus Drive\Académico\4° AÑO\SIM\SIM_TP3\SIM_TP3\TP3SIM\bin\Debug\TP3SIM.exe
+D:\Agus\Agus Drive\Académico\4° AÑO\SIM\SIM_TP3\SIM_TP3\TP3SIM\bin\Debug\TP3SIM.pdb
+D:\Agus\Agus Drive\Académico\4° AÑO\SIM\SIM_TP3\SIM_TP3\TP3SIM\obj\Debug\TP3SIM.csprojResolveAssemblyReference.cache
+D:\Agus\Agus Drive\Académico\4° AÑO\SIM\SIM_TP3\SIM_TP3\TP3SIM\obj\Debug\WindowsFormsApplication1.TP3.resources
+D:\Agus\Agus Drive\Académico\4° AÑO\SIM\SIM_TP3\SIM_TP3\TP3SIM\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Agus\Agus Drive\Académico\4° AÑO\SIM\SIM_TP3\SIM_TP3\TP3SIM\obj\Debug\TP3SIM.csproj.GenerateResource.Cache
+D:\Agus\Agus Drive\Académico\4° AÑO\SIM\SIM_TP3\SIM_TP3\TP3SIM\obj\Debug\TP3SIM.exe
+D:\Agus\Agus Drive\Académico\4° AÑO\SIM\SIM_TP3\SIM_TP3\TP3SIM\obj\Debug\TP3SIM.pdb
+C:\Users\Agustina\Desktop\POSTA\SIM_TP3\TP3SIM\bin\Debug\TP3SIM.exe.config
+C:\Users\Agustina\Desktop\POSTA\SIM_TP3\TP3SIM\bin\Debug\TP3SIM.exe
+C:\Users\Agustina\Desktop\POSTA\SIM_TP3\TP3SIM\bin\Debug\TP3SIM.pdb
+C:\Users\Agustina\Desktop\POSTA\SIM_TP3\TP3SIM\obj\Debug\TP3SIM.csprojResolveAssemblyReference.cache
+C:\Users\Agustina\Desktop\POSTA\SIM_TP3\TP3SIM\obj\Debug\WindowsFormsApplication1.TP3.resources
+C:\Users\Agustina\Desktop\POSTA\SIM_TP3\TP3SIM\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Agustina\Desktop\POSTA\SIM_TP3\TP3SIM\obj\Debug\TP3SIM.csproj.GenerateResource.Cache
+C:\Users\Agustina\Desktop\POSTA\SIM_TP3\TP3SIM\obj\Debug\TP3SIM.exe
+C:\Users\Agustina\Desktop\POSTA\SIM_TP3\TP3SIM\obj\Debug\TP3SIM.pdb
+<<<<<<< HEAD
+C:\Users\Usuario\REPO\sim-tp3\TP3SIM\bin\Debug\TP3SIM.exe.config
+C:\Users\Usuario\REPO\sim-tp3\TP3SIM\obj\Debug\TP3SIM.exe
+C:\Users\Usuario\REPO\sim-tp3\TP3SIM\obj\Debug\TP3SIM.pdb
+C:\Users\Usuario\REPO\sim-tp3\TP3SIM\bin\Debug\TP3SIM.exe
+C:\Users\Usuario\REPO\sim-tp3\TP3SIM\bin\Debug\TP3SIM.pdb
+C:\Users\Usuario\REPO\sim-tp3\TP3SIM\obj\Debug\TP3SIM.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\REPO\sim-tp3\TP3SIM\obj\Debug\WindowsFormsApplication1.TP3.resources
+C:\Users\Usuario\REPO\sim-tp3\TP3SIM\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Usuario\REPO\sim-tp3\TP3SIM\obj\Debug\TP3SIM.csproj.GenerateResource.Cache
+=======
+C:\Users\garba\Desktop\REPO-TP3-SIM\sim-tp3\TP3SIM\bin\Debug\TP3SIM.exe.config
+C:\Users\garba\Desktop\REPO-TP3-SIM\sim-tp3\TP3SIM\obj\Debug\TP3SIM.exe
+C:\Users\garba\Desktop\REPO-TP3-SIM\sim-tp3\TP3SIM\obj\Debug\TP3SIM.pdb
+C:\Users\garba\Desktop\REPO-TP3-SIM\sim-tp3\TP3SIM\bin\Debug\TP3SIM.exe
+C:\Users\garba\Desktop\REPO-TP3-SIM\sim-tp3\TP3SIM\bin\Debug\TP3SIM.pdb
+C:\Users\garba\Desktop\REPO-TP3-SIM\sim-tp3\TP3SIM\obj\Debug\TP3SIM.csprojResolveAssemblyReference.cache
+C:\Users\garba\Desktop\REPO-TP3-SIM\sim-tp3\TP3SIM\obj\Debug\WindowsFormsApplication1.TP3.resources
+C:\Users\garba\Desktop\REPO-TP3-SIM\sim-tp3\TP3SIM\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\garba\Desktop\REPO-TP3-SIM\sim-tp3\TP3SIM\obj\Debug\TP3SIM.csproj.GenerateResource.Cache
+>>>>>>> 57a43f8da640619110a7a6e95d1d1a9b2c9a0695
+C:\Users\Javier\Source\Repos\sim-tp3--local3\TP3SIM\bin\Debug\TP3SIM.exe.config
+C:\Users\Javier\Source\Repos\sim-tp3--local3\TP3SIM\bin\Debug\TP3SIM.exe
+C:\Users\Javier\Source\Repos\sim-tp3--local3\TP3SIM\bin\Debug\TP3SIM.pdb
+C:\Users\Javier\Source\Repos\sim-tp3--local3\TP3SIM\obj\Debug\TP3SIM.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Source\Repos\sim-tp3--local3\TP3SIM\obj\Debug\WindowsFormsApplication1.TP3.resources
+C:\Users\Javier\Source\Repos\sim-tp3--local3\TP3SIM\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Javier\Source\Repos\sim-tp3--local3\TP3SIM\obj\Debug\TP3SIM.csproj.GenerateResource.Cache
+C:\Users\Javier\Source\Repos\sim-tp3--local3\TP3SIM\obj\Debug\TP3SIM.exe
+C:\Users\Javier\Source\Repos\sim-tp3--local3\TP3SIM\obj\Debug\TP3SIM.pdb
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\Nueva carpeta\sim-tp3-master\TP3SIM\bin\Debug\TP3SIM.exe.config
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\Nueva carpeta\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.exe
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\Nueva carpeta\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.pdb
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\Nueva carpeta\sim-tp3-master\TP3SIM\bin\Debug\TP3SIM.exe
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\Nueva carpeta\sim-tp3-master\TP3SIM\bin\Debug\TP3SIM.pdb
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\Nueva carpeta\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.csprojResolveAssemblyReference.cache
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\Nueva carpeta\sim-tp3-master\TP3SIM\obj\Debug\WindowsFormsApplication1.TP3.resources
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\Nueva carpeta\sim-tp3-master\TP3SIM\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\Nueva carpeta\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\sim-tp3-master\TP3SIM\bin\Debug\TP3SIM.exe.config
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\sim-tp3-master\TP3SIM\bin\Debug\TP3SIM.exe
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\sim-tp3-master\TP3SIM\bin\Debug\TP3SIM.pdb
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\sim-tp3-master\TP3SIM\obj\Debug\WindowsFormsApplication1.TP3.resources
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\sim-tp3-master\TP3SIM\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.exe
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.pdb

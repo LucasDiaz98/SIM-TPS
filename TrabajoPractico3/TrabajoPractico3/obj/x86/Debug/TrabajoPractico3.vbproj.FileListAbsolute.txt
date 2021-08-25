@@ -1,0 +1,29 @@
+E:\facultad\2016\SIMULACION\Práctico\TP3\TrabajoPractico3\TrabajoPractico3\bin\Debug\TrabajoPractico3.exe
+E:\facultad\2016\SIMULACION\Práctico\TP3\TrabajoPractico3\TrabajoPractico3\bin\Debug\TrabajoPractico3.pdb
+E:\facultad\2016\SIMULACION\Práctico\TP3\TrabajoPractico3\TrabajoPractico3\bin\Debug\TrabajoPractico3.xml
+E:\facultad\2016\SIMULACION\Práctico\TP3\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.Principal.resources
+E:\facultad\2016\SIMULACION\Práctico\TP3\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.Resources.resources
+E:\facultad\2016\SIMULACION\Práctico\TP3\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.vbproj.GenerateResource.Cache
+E:\facultad\2016\SIMULACION\Práctico\TP3\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.exe
+E:\facultad\2016\SIMULACION\Práctico\TP3\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.xml
+E:\facultad\2016\SIMULACION\Práctico\TP3\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.pdb
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\ema fb\TP3\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.exe
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\ema fb\TP3\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.xml
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\ema fb\TP3\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.pdb
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\ema fb\TP3\TrabajoPractico3\TrabajoPractico3\bin\Debug\TrabajoPractico3.exe
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\ema fb\TP3\TrabajoPractico3\TrabajoPractico3\bin\Debug\TrabajoPractico3.pdb
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\ema fb\TP3\TrabajoPractico3\TrabajoPractico3\bin\Debug\TrabajoPractico3.xml
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\ema fb\TP3\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.Principal.resources
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\ema fb\TP3\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.Resources.resources
+F:\PASAR netbook\facu\SIM\2017\TP3\Nueva carpeta\ema fb\TP3\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\Trabajo de guia\Carpeta sin título\TrabajoPractico3\TrabajoPractico3\bin\Debug\TrabajoPractico3.exe
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\Trabajo de guia\Carpeta sin título\TrabajoPractico3\TrabajoPractico3\bin\Debug\TrabajoPractico3.pdb
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\Trabajo de guia\Carpeta sin título\TrabajoPractico3\TrabajoPractico3\bin\Debug\TrabajoPractico3.xml
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\Trabajo de guia\Carpeta sin título\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.vbproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\Trabajo de guia\Carpeta sin título\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.Principal.resources
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\Trabajo de guia\Carpeta sin título\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.Resources.resources
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\Trabajo de guia\Carpeta sin título\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.vbproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\Trabajo de guia\Carpeta sin título\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.vbproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\Trabajo de guia\Carpeta sin título\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.exe
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\Trabajo de guia\Carpeta sin título\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.xml
+C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\Trabajo de guia\Carpeta sin título\TrabajoPractico3\TrabajoPractico3\obj\x86\Debug\TrabajoPractico3.pdb
