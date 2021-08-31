@@ -91,3 +91,13 @@ C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\sim
 C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.csproj.CoreCompileInputs.cache
 C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.exe
 C:\Users\Lucas\Desktop\Cosas facultad\SIM\Cosas No Mias\SIM_1\SIM4k1\TPS\TP3\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.pdb
+C:\Users\Lucas\Desktop\Tps-Git\SIM-TPS\sim-tp3-master\TP3SIM\bin\Debug\TP3SIM.exe.config
+C:\Users\Lucas\Desktop\Tps-Git\SIM-TPS\sim-tp3-master\TP3SIM\bin\Debug\TP3SIM.exe
+C:\Users\Lucas\Desktop\Tps-Git\SIM-TPS\sim-tp3-master\TP3SIM\bin\Debug\TP3SIM.pdb
+C:\Users\Lucas\Desktop\Tps-Git\SIM-TPS\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Tps-Git\SIM-TPS\sim-tp3-master\TP3SIM\obj\Debug\WindowsFormsApplication1.TP3.resources
+C:\Users\Lucas\Desktop\Tps-Git\SIM-TPS\sim-tp3-master\TP3SIM\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Tps-Git\SIM-TPS\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\Tps-Git\SIM-TPS\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Tps-Git\SIM-TPS\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.exe
+C:\Users\Lucas\Desktop\Tps-Git\SIM-TPS\sim-tp3-master\TP3SIM\obj\Debug\TP3SIM.pdb
